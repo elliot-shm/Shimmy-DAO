@@ -1,3 +1,3 @@
-# Shimmy-DAO
-Shimmy DAO 
-- Open Source repository for Shimmy DAO project. 
+# Shimmy-Docs
+Shimmy Docs
+- Repository for open source Shimmy projects. 
